@@ -9,7 +9,8 @@
 </head>
 
 <body>
-Hello
+  <a href="login">Login</a>
+  <a href="register">Registration</a>
 </body>
 
 </html>
